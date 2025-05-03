@@ -28,9 +28,44 @@
         "pilihan_d" : "D. Jenis data yang dapat disimpan dalam variabel"
     },
     {
-        "soal":  "5. 1. Apa tipe data primitif yang digunakan untuk merepresentasikan nilai benar atau salah dalam Javascript?",
+        "soal":  "5. Apa tipe data primitif yang digunakan untuk merepresentasikan nilai benar atau salah dalam Javascript?",
         "pilihan_a" : "A. String",
         "pilihan_b" : "B.boolean ",
         "pilihan_c" : "C.number",
-    }
+        "pilihan_d" :"D.undefined",
+        "kunci_jawaban" : "B"
+    },
+    {
+        "soal" : "6. Bagaimana cara mendeklarasikan variabel yang nilainya tidak dapat diubah setelah inisialisasi dalam Javascript?",
+        "pilihan_a" :"A. Cons",
+        "pilihan_b" : "B.Var",
+        "pilihan_c" : "C.Let",
+        "pilihan_d" : "D. Function",
+        "kunci_jawaban" : "A"
+    },
+    {
+        "soal" : "7. Metode array mana yang digunakan untuk menambahkan satu atau lebih elemen ke akhir array dan mengembalikan panjang array yang baru?",
+        "pilihan_a" : "A. Pop ()",
+        "pilihan_b" : "B. Shift ()",
+        "pilihan_c" : "C. Push ()",
+        "pilihan_d" : "D. Unshift ()",
+        "kunci_jawaban" : "C"
+    },
+    {
+        "soal" : "8. Operator manakah yang digunakan untuk membandingkan nilai dan tipe data secara ketat dalam Javascript?",
+        "pilihan_a" : "A.==",
+        "pilihan_b" : "B.!=",
+        "pilihan_c" : "C. ===",
+        "pilihan_d" : "D. =",
+        "kunci_jawaban" : "C"
+    },
+    {
+         "soal" : "9. Apa fungsi dari metode addEventListener() dalam Javascript?",
+        "pilihan_a" : "A. Menghapus elemen dari DOM.",
+        "pilihan_b" : "B. Menambahkan event handler ke elemen HTML.",
+        "pilihan_c" : "C. Mengubah gaya CSS dari elemen HTML.",
+        "pilihan_d" : "D. Membuat elemen HTML baru.",
+        "kunci_jawaban": "B"
+    },
+      
 ]
