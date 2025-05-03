@@ -32,40 +32,70 @@
         "pilihan_a" : "A. String",
         "pilihan_b" : "B.boolean ",
         "pilihan_c" : "C.number",
-        "pilihan_d" :"D.undefined",
-        "kunci_jawaban" : "B"
+        "pilihan_d" :"D.undefined"
     },
     {
         "soal" : "6. Bagaimana cara mendeklarasikan variabel yang nilainya tidak dapat diubah setelah inisialisasi dalam Javascript?",
         "pilihan_a" :"A. Cons",
         "pilihan_b" : "B.Var",
         "pilihan_c" : "C.Let",
-        "pilihan_d" : "D. Function",
-        "kunci_jawaban" : "A"
+        "pilihan_d" : "D. Function"
     },
     {
         "soal" : "7. Metode array mana yang digunakan untuk menambahkan satu atau lebih elemen ke akhir array dan mengembalikan panjang array yang baru?",
         "pilihan_a" : "A. Pop ()",
         "pilihan_b" : "B. Shift ()",
         "pilihan_c" : "C. Push ()",
-        "pilihan_d" : "D. Unshift ()",
-        "kunci_jawaban" : "C"
+        "pilihan_d" : "D. Unshift ()"
     },
     {
         "soal" : "8. Operator manakah yang digunakan untuk membandingkan nilai dan tipe data secara ketat dalam Javascript?",
         "pilihan_a" : "A.==",
         "pilihan_b" : "B.!=",
         "pilihan_c" : "C. ===",
-        "pilihan_d" : "D. =",
-        "kunci_jawaban" : "C"
+        "pilihan_d" : "D. ="
+
     },
     {
-         "soal" : "9. Apa fungsi dari metode addEventListener() dalam Javascript?",
+        "soal" : "9. Apa fungsi dari metode addEventListener() dalam Javascript?",
         "pilihan_a" : "A. Menghapus elemen dari DOM.",
         "pilihan_b" : "B. Menambahkan event handler ke elemen HTML.",
         "pilihan_c" : "C. Mengubah gaya CSS dari elemen HTML.",
-        "pilihan_d" : "D. Membuat elemen HTML baru.",
-        "kunci_jawaban": "B"
+        "pilihan_d" : "D. Membuat elemen HTML baru."
     },
-      
+    {
+        "soal" : "10. Apa itu JavaScript",
+        "pilihan_a" : "A. Bahasa pemrograman untuk server saja.",
+        "pilihan_b" : "B. Bahasa markup seperti HTML.",
+        "pilihan_c" : "C. Bahasa pemrograman yang berjalan di sisi klien browser dan server.",
+        "pilihan_d" : "D. Bahasa untuk mendesain tampilan web."
+    },
+    {
+        "soal" : "11. Manakah pernyataan yang benar tentang deklarasi variabel di JavaScript?",
+        "pilihan_a" : "A. JavaScript hanya bisa menggunakan var.",
+        "pilihan_b" : "B. JavaScript tidak mendukung deklarasi variabel.",
+        "pilihan_c" : "C. Variabel dapat dideklarasikan dengan var, let, atau const.",
+        "pilihan_d" : "D. JavaScript menggunakan define untuk deklarasi."
+    },
+    {
+        "soal" : "12. Apa fungsi utama dari sebuah fungsi function dalam JavaScript?",
+        "pilihan_a" : "A. Untuk menyimpan data.",
+        "pilihan_b" : "B. Untuk menampilkan halaman web.",
+        "pilihan_c" : "C. Untuk mengelompokkan dan menjalankan blok kode tertentu.",
+        "pilihan_d" : "D. Untuk membuat elemen HTML baru."
+    },
+    {
+        "soal" : "13. Apa yang dimaksud dengan DOM dalam JavaScript?",
+        "pilihan_a" : "A. Format file untuk JavaScript.",
+        "pilihan_b" : "B. Sistem basis data.",
+        "pilihan_c" : "C. Struktur data yang merepresentasikan elemen pada halaman web.",
+        "pilihan_d" : "D. Bahasa Pemrograman khusus untuk desain."
+    },
+    {
+        "soal" : "14. Perintah mana yang digunakan untuk menampilkan pesan ke konsol di JavaScript?",
+        "pilihan_a" : "A.  console.show().",
+        "pilihan_b" : "B. alert().",
+        "pilihan_c" : "C. log.console().",
+        "pilihan_d" : "D. console.log()."
+    }
 ]
