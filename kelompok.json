@@ -4,28 +4,32 @@
         "pilihan_a" : "A. Menggunakan fungsi pertanyaan",
         "pilihan_b" : "B. Menggunakan pernytaan if-else",
         "pilihan_c" : "C. Menggunakan pernyataan untuk",
-        "pilihan_d" : "D. Menggunakan pernyatan switch"
+        "pilihan_d" : "D. Menggunakan pernyatan switch",
+        "kunci_jawaban":"C"
     },
     {
         "soal":"2. Apa fungsi dari variabel dalam Javascript?",
         "pilihan_a" : "A. Untuk membuat  pengulangan di dalamm JavaScript",
         "pilihan_b" : "B. Untuk menampilkan output ke layar",
         "pilihan_c" : "C. Untuk menyimpan dan memanipulasi data",
-        "pilihan_d" : "D. Untuk mengatur tampilan halamman web"
+        "pilihan_d" : "D. Untuk mengatur tampilan halamman web",
+        "kunci_jawaban":"C"
     },
     {
         "soal": "3. Apa keluaran dari console.log(5 > 3 && 2)?",
         "pilihan_a" : "A. 2",
         "pilihan_b" : "B. 5",
         "pilihan_c" : "C. BENAR",
-        "pilihan_d" : "D. PALSU"
+        "pilihan_d" : "D. PALSU",
+        "kunci_jawaban":"A"
     },
     {
         "soal": "4. Apa yang dimaksud dengan tipe data dalam JavaScript?",
         "pilihan_a" : "A. Sebuah metode untuk mengubah warna latar belakang halaman web",
         "pilihan_b" : "B. Sebuat metode untuk  memperoleh input dari pengguna",
         "pilihan_c" : "C. Sebuah metode untuk menampilkan keluaran teks di konsol peramban",
-        "pilihan_d" : "D. Jenis data yang dapat disimpan dalam variabel"
+        "pilihan_d" : "D. Jenis data yang dapat disimpan dalam variabel",
+        "kunci_jawaban":"D"
     },
     {
         "soal":  "5. Apa tipe data primitif yang digunakan untuk merepresentasikan nilai benar atau salah dalam Javascript?",
