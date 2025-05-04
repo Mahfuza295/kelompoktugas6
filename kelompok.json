@@ -35,14 +35,9 @@
         "soal":  "5. Apa tipe data primitif yang digunakan untuk merepresentasikan nilai benar atau salah dalam Javascript?",
         "pilihan_a" : "A. String",
         "pilihan_b" : "B.boolean ",
-<<<<<<< HEAD
         "pilihan_c" : "C.number"
         "pilihan_d" :"D.undefined"
-=======
-        "pilihan_c" : "C.number",
-        "pilihan_d" :"D.undefined",
         "kunci_jawaban" :"B"
->>>>>>> 628f969cd15b1048b8e7faacf979939bdf5d9f28
     },
 
     {
@@ -78,10 +73,6 @@
         "pilihan_d" : "D. Membuat elemen HTML baru.",
         "kunci_jawaban":"B"
     },
-<<<<<<< HEAD
-=======
-
->>>>>>> 628f969cd15b1048b8e7faacf979939bdf5d9f28
     {
         "soal" : "10. Apa itu JavaScript",
         "pilihan_a" : "A. Bahasa pemrograman untuk server saja.",
@@ -122,13 +113,5 @@
         "pilihan_d" : "D. console.log().",
         "kunci_jawaban":"D"
     }
-<<<<<<< HEAD
+
 ]
-=======
-]
-
-      
-
-
-
->>>>>>> 628f969cd15b1048b8e7faacf979939bdf5d9f28
