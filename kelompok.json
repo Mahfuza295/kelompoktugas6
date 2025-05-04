@@ -35,8 +35,8 @@
         "soal":  "5. Apa tipe data primitif yang digunakan untuk merepresentasikan nilai benar atau salah dalam Javascript?",
         "pilihan_a" : "A. String",
         "pilihan_b" : "B.boolean ",
-        "pilihan_c" : "C.number"
-        "pilihan_d" :"D.undefined"
+        "pilihan_c" : "C.number",
+        "pilihan_d" :"D.undefined",
         "kunci_jawaban" :"B"
     },
 
