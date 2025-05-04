@@ -112,6 +112,14 @@
         "pilihan_c" : "C. log.console().",
         "pilihan_d" : "D. console.log().",
         "kunci_jawaban":"D"
+    },
+    {
+        "soal": "15. Apakah yang bukan sintaks yang benar untuk mmendeklarasi variabel?",
+        "pilihan_a" : "let x;",
+        "pilihan_b" : "dim x;",
+        "pilihan_c" : "var x;",
+        "pilihan_d" : "const x;",
+        "kunci_jawaban": "B"
     }
 
 ]
